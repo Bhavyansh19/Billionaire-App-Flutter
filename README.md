@@ -1,16 +1,12 @@
-# billionareapp
+# Billionaire-App
 
-A new Flutter project.
+Billionaire-App is a simple Flutter application where you can add virtual money to your bank balance. Each time you press the "Add Money" button, $500 is added to your total.
 
-## Getting Started
+![App Screenshot](./Billionaire-App-Screenshot.png)
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Bank Balance:** Display your current virtual bank balance.
+- **Add Money:** Tap the "Add Money" button to increase your bank balance by $500.
+- **Responsive UI:** The app is designed with a modern and responsive user interface.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
